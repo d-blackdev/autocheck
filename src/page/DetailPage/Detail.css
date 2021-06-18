@@ -1,0 +1,24 @@
+.content-main {
+  padding: 4rem 3rem;
+}
+.icon-back {
+  font-size: 2rem;
+}
+.detail-text {
+  margin-top: 2rem;
+  font-size: 1.5rem;
+  text-transform: capitalize !important;
+}
+.single-detail {
+  font-size: 1.5rem;
+  color: #30345e;
+  margin-bottom: 1.5rem;
+}
+.more {
+  margin-top: 2rem;
+}
+.single-detail span{
+    font-size: 1rem;
+    text-transform: capitalize !important;
+}
+
